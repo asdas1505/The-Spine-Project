@@ -8,7 +8,7 @@ there are two X-Ray images highlighting two different views namely AP and Latera
 identifying the underlying abnormality vividly. This gives us a total of 2000 X-ray images, equally
 divided among the two views.
 
-Here we performing two tasks **A) Classification** and **B) Segmentation**
+Here we have performed two tasks **A) Classification** and **B) Segmentation**
 
 ## A) Classification :
 
